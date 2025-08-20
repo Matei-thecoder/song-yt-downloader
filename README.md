@@ -9,8 +9,10 @@ where filename contains a list of song names
 `pip3 install urllib`
 * BeautifulSoup: Install BeautifulSoup4 with  
 `pip3 install beautifulsoup4`
-* youtube-dl: Install youtube-dl with  
-`pip3 install youtube_dl`
+* yt-dlp: Install yt-dlp with  
+`pip3 install yt_dlp`
+* ffmpeg: Install ffmmpeg ( on Fedora, it differs on different distributions of linux and on windows) with  
+  `sudo dnf install ffmpeg `
 
 ### How to Use  
 * First time users please check the next section.
